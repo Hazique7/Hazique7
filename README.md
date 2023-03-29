@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hazique ahmed khan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on js
 - 📫 How to reach me haziqueahmedkhan1@gmail.com
 
